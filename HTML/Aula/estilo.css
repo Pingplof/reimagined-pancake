@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#conteudo {
+    border: px black double;
+    padding: 0px 0px;
+    background-color: #7c087c;
+    text-align: justify;
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: #0f6b06 ;
+}
+
+h1 span { 
+    background-color: #f7d201;
+}
+
+span.canetaAmarela {
+    font-weight: bold;
+    background-color: #f76301;
+    text-transform: uppercase;
+}
+
+span.comBorda {
+    border: 1px black dashed;
+}
+
+.importante {
+    font-size: 30px;
+}
+
+#principal {
+    border: 1px black solid;
+}
