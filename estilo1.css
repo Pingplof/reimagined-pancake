@@ -1,0 +1,31 @@
+body{
+    text-align: none;
+    background-color:#192965;
+    color:  #BBCFFF;
+}
+h1{
+    text-align: center;
+    border: #F0EFEF;
+}
+p.imagem{
+    text-align: center;
+}
+a{
+    border: 10px double #F0EFEF;
+    background-color: #3f72af;
+    color: #FFFFFF;
+}
+img.a{
+    border: 10px double #F0EFEF;
+}
+h2{
+    text-align: center;
+    line-height: 4; 
+}
+#NO{
+    border: none;
+    background-color: #192965;
+    color: #BBCFFF;
+}
+#FAAFFF
+

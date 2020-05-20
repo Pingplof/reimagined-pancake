@@ -1,0 +1,97 @@
+body{
+    text-align: justify;
+    background-color:#6f3071;
+    color: #dcd5d5;
+}
+div{
+    border: none;
+    background-color: none;
+    color: none;
+    width: 74%;
+    float: right; 
+}
+p.a{
+    text-indent: 50px;
+}
+.persona{
+    border: 10px double #874b90;
+    background-color: #141414;
+    color: #dcd5d5;
+    width: 20%;
+    float: left;
+}
+.person{
+    border: 10px double #141414;
+    background-color: #874b90;
+    width: 20%;
+    float: left;
+}
+h1,h2,h4{
+    text-align: center;
+}
+img{
+    float: left;
+}
+#YES{
+    border: 10px double #141414;
+    background-color: #874b90;
+    color: #dcd5d5;
+}
+#SPOILER{
+    border: 10px double #141414;
+    background-color: #874b90;
+    color: #dcd5d5;
+    size: 20; 
+}
+img{
+    border: 10px double #141414;
+}
+.Patton{
+    color:#00ffff;
+}
+.Roman{
+    color:#ff0000;
+ }
+.Logan{
+   color:#012ffad8;       
+ }
+.Virgil{
+    color:#810065;
+}
+.Remus{
+    color:#24c20f;
+}
+.Deciet{
+    color:#fdd700;
+}
+.Orange{
+    color:#fd8f00;
+}
+div.Patton{
+    color:#00ffff;
+    border: 10px double #00ffff;
+}
+div.Roman{
+    color:#ff0000;
+    border: 10px double #ff0000;
+ }
+div.Logan{
+   color:#012ffad8;
+   border: 10px double #012ffad8;          
+ }
+div.Virgil{
+    color:#810065;
+    border: 10px double #810065;
+}
+div.Remus{
+    color:#24c20f;
+    border: 10px double #24c20f;
+}
+div.Deciet{
+    color:#fdd700;
+    border: 10px double #fdd700;
+}
+div.Orange{
+    color:#fd8f00;
+    border: 10px double #fd8f00;
+}

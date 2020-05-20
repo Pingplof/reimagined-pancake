@@ -1,0 +1,53 @@
+body{
+    text-align: justify;
+    background-color:#192965;
+    color:  #BBCFFF;
+    text-indent: 50px;
+}
+div{
+    border: 10px double #3f72af;
+    background-color: #F0EFEF;
+    color: #000000;
+    width: 74%;
+    float: right; 
+}
+h1{
+    text-align: center;
+    border: #F0EFEF;
+}
+img{
+    border: 10px double #F0EFEF;
+    float: left;
+}
+h2{
+    text-align: center;
+    border: 10px double #F0EFEF;
+    background-color: #3f72af;
+    color: #FFFFFF;
+}
+a{
+    border: 10px double #F0EFEF;
+    background-color: #3f72af;
+    color: #FFFFFF;
+}
+.Thomas{
+    color:#f84cb0;
+}
+.Patton{
+    color:#00ffff;
+}
+.Roman{
+    color:#ff0000;
+ }
+.Logan{
+   color:#000000;        
+ }
+.Virgil{
+    color:#810065;
+}
+.Remus{
+    color:#126d06;
+}
+.Deciet{
+    color:#fdd700;
+}
